@@ -54,4 +54,4 @@ Each course folder has a `NOTES.md` (what I learned) and a `labs/` folder (code 
 
 - Daily commits as I work through each course
 - Notes in `NOTES.md`, code in `labs/`
-- Progress table above updated as courses are completedhu
+- Progress table above updated as courses are completed
